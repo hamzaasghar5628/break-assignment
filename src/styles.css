@@ -369,3 +369,6 @@ nav h1 {
 body.modal-open {
     overflow: hidden;
 } 
+.hidden {
+    display: none;
+}
